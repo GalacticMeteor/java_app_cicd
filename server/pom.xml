@@ -16,7 +16,7 @@
   <description>Logic.</description>
 
   <build>
-    <finalName>webapp</finalName>
+    <finalName>${project.artifactId}</finalName>
   </build>
 
   <dependencies>
