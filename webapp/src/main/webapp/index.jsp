@@ -36,8 +36,8 @@
 </head>
 <body>
     <div class="card">
-        <h1>Hello, World! 👋</h1>
-        <p>Welcome to your beautiful JSP page.</p>
+        <h1>Hello, CHIHEB! 👋</h1>
+        <p>Welcome to your beautiful web page.</p>
     </div>
 </body>
 </html>
